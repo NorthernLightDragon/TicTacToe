@@ -1,0 +1,10 @@
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\bin\Debug\WFtictactoe.exe.config
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\bin\Debug\WFtictactoe.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\bin\Debug\WFtictactoe.pdb
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.csprojAssemblyReference.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.Properties.Resources.resources
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.csproj.GenerateResource.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.csproj.CoreCompileInputs.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.pdb
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WFtictactoe\WFtictactoe\obj\Debug\WFtictactoe.Form1.resources
